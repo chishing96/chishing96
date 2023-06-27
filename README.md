@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kent
-- 👨🏻‍💻 Mobile Applications Developer (React-Native, SwiftUI, Kotlin)
+- 👨🏻‍💻 Mobile Applications Developer (React-Native, SwiftUI, Flutter)
 - 👀 I’m interested in collaboration and learning new stuff...
-- 📫 Reach me @ cskjs@gmail.com ...
+- 📫 Reach me @ cskjsw@gmail.com ...
 - 💻 You can view my projects [here](https://github.com/chishing96/chi-projects)
 
 ### Connect with me
